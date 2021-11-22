@@ -1,7 +1,7 @@
 ### 👋 Hello I'm Kangjin Kim, Junior Software Engineer.
 
-## B.S., Majoring in ICE
-##### I majored at Information and Communication Engineering, Gyeongsang National Univ.
+### B.S., Majoring in ICE
+### I majored at Information and Communication Engineering, Gyeongsang National Univ.
 
 ## Interested in..
 * Autonomous Driving(Sensor Fusion, Control Algorithm)
