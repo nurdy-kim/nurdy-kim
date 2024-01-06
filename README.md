@@ -8,18 +8,18 @@
 ## Tech Stack
 
 <div align="center">
+    ### Language
     <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white"/> 
     <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=flat&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00add8?style=flat&logo=Go&logoColor=white"/>
     <br/>
+    ### Platform
+    <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/>
+    <br/>
+    ### Tools
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=
     Github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/>
     <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
     <br/>
-
-    
-
 </div>
