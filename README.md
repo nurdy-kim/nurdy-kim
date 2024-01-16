@@ -3,6 +3,8 @@
 # 👋 Hello I'm Kangjin Kim, Junior Software Engineer.
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=coren10)](https://solved.ac/coren10)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ## Tech Stack
 
 ### Langage
