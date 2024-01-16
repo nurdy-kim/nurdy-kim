@@ -17,7 +17,7 @@
 </div>
 #### Recently Started
 <div align="center">
-    <img src="https://img.shields.io/badge/OpenJDK-437291?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
 </div>
 ### Platform
 <div align="center">
