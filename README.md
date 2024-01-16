@@ -10,23 +10,26 @@
 ### Langage
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=python&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=flat&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Go-00add8?style=flat&logo=Go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/C/C++-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=Go&logoColor=white"/>
     <br/>  
 </div>
-
+#### Recently Started
+<div align="center">
+    <img src="https://img.shields.io/badge/OpenJDK-437291?style=for-the-badge&logo=Java&logoColor=white"/>
+</div>
 ### Platform
 <div align="center">
-    <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white"/>
     <br/>
 </div>
 
 ### Tools
 <div align="center">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=
     Github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
     <br/>
 </div>
