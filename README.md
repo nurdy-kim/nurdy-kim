@@ -19,7 +19,7 @@
 ### Platform
 #### WEB
 
-##### FrontEnd
+#### FrontEnd
 
 <div align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
 </div>
 
-##### BackEnd
+#### BackEnd
 
 <div align="center">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
